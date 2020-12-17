@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
  *
  * 求解立方根
  */
-public class Main {
+public class Solution107 {
     public static boolean isTest = false;
 
     public static void main(String [] args) throws IOException {
